@@ -1,3 +1,5 @@
+gem 'bcrypt-ruby', '~> 3.1.2'
+
 gem 'byebug', group: [:development, :test]
 source 'https://rubygems.org'
 
